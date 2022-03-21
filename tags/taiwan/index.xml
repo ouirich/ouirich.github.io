@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>taiwan on Ouirich Bounthavy</title>
-    <link>https://example.com/tags/taiwan/</link>
+    <link>https://ouirich.github.io/tags/taiwan/</link>
     <description>Recent content in taiwan on Ouirich Bounthavy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 29 Dec 2019 15:51:21 -0700</lastBuildDate><atom:link href="https://example.com/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2019 15:51:21 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/taiwan/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jiufen</title>
-      <link>https://example.com/photography/jiufen/</link>
+      <link>https://ouirich.github.io/photography/jiufen/</link>
       <pubDate>Sun, 29 Dec 2019 15:51:21 -0700</pubDate>
       
-      <guid>https://example.com/photography/jiufen/</guid>
+      <guid>https://ouirich.github.io/photography/jiufen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hualien</title>
-      <link>https://example.com/photography/hualien/</link>
+      <link>https://ouirich.github.io/photography/hualien/</link>
       <pubDate>Wed, 25 Dec 2019 15:51:21 -0700</pubDate>
       
-      <guid>https://example.com/photography/hualien/</guid>
+      <guid>https://ouirich.github.io/photography/hualien/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Taipei</title>
-      <link>https://example.com/photography/taipei/</link>
+      <link>https://ouirich.github.io/photography/taipei/</link>
       <pubDate>Mon, 23 Dec 2019 15:51:21 -0700</pubDate>
       
-      <guid>https://example.com/photography/taipei/</guid>
+      <guid>https://ouirich.github.io/photography/taipei/</guid>
       <description></description>
     </item>
     

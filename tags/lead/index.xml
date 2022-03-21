@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lead on Ouirich Bounthavy</title>
-    <link>https://example.com/tags/lead/</link>
+    <link>https://ouirich.github.io/tags/lead/</link>
     <description>Recent content in lead on Ouirich Bounthavy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Wed, 02 Feb 2022 21:43:25 -0800</lastBuildDate><atom:link href="https://example.com/tags/lead/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Feb 2022 21:43:25 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/tags/lead/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sonic Prime</title>
-      <link>https://example.com/filmography/sonicprime/</link>
+      <link>https://ouirich.github.io/filmography/sonicprime/</link>
       <pubDate>Wed, 02 Feb 2022 21:43:25 -0800</pubDate>
       
-      <guid>https://example.com/filmography/sonicprime/</guid>
+      <guid>https://ouirich.github.io/filmography/sonicprime/</guid>
       <description>Currently working on the new animated Sonic the Hedgehog serie for Netflix.</description>
     </item>
     
     <item>
       <title>The Willoughbys</title>
-      <link>https://example.com/filmography/willoughbys/</link>
+      <link>https://ouirich.github.io/filmography/willoughbys/</link>
       <pubDate>Wed, 01 Apr 2020 19:20:36 -0800</pubDate>
       
-      <guid>https://example.com/filmography/willoughbys/</guid>
+      <guid>https://ouirich.github.io/filmography/willoughbys/</guid>
       <description>Worked on multiple sequences setting up lighting mood and compositing template on master and keyshots.
 I led one the sequence in the candy factory, the biggest sequence of the film over 80 shots. I worked on most of the keyshots. I provided feedback to artists based on notes from the production designer and supervisor, and supported them until final approval.</description>
     </item>

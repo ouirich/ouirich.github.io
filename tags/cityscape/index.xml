@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cityscape on Ouirich Bounthavy</title>
-    <link>https://example.com/tags/cityscape/</link>
+    <link>https://ouirich.github.io/tags/cityscape/</link>
     <description>Recent content in cityscape on Ouirich Bounthavy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 23 Dec 2019 15:51:21 -0700</lastBuildDate><atom:link href="https://example.com/tags/cityscape/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2019 15:51:21 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/cityscape/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taipei</title>
-      <link>https://example.com/photography/taipei/</link>
+      <link>https://ouirich.github.io/photography/taipei/</link>
       <pubDate>Mon, 23 Dec 2019 15:51:21 -0700</pubDate>
       
-      <guid>https://example.com/photography/taipei/</guid>
+      <guid>https://ouirich.github.io/photography/taipei/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Seattle</title>
-      <link>https://example.com/photography/seattle/</link>
+      <link>https://ouirich.github.io/photography/seattle/</link>
       <pubDate>Wed, 01 May 2019 15:51:21 -0700</pubDate>
       
-      <guid>https://example.com/photography/seattle/</guid>
+      <guid>https://ouirich.github.io/photography/seattle/</guid>
       <description></description>
     </item>
     
