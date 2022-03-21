@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>imageworks on Ouirich Bounthavy</title>
+    <link>https://example.com/tags/imageworks/</link>
+    <description>Recent content in imageworks on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 04 Dec 2018 22:50:30 -0800</lastBuildDate><atom:link href="https://example.com/tags/imageworks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spider-Man Into the Spider-Verse</title>
+      <link>https://example.com/filmography/spiderverse/</link>
+      <pubDate>Tue, 04 Dec 2018 22:50:30 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/spiderverse/</guid>
+      <description>A very special project. The amount of work done in compositing was tremendous, most of the look was done in Nuke and where we could be creative.
+I worked on multiple sequences on lighting and shared some shots for the compositing task.</description>
+    </item>
+    
+    <item>
+      <title>Smallfoot</title>
+      <link>https://example.com/filmography/smallfoot/</link>
+      <pubDate>Sun, 02 Sep 2018 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/smallfoot/</guid>
+      <description>First project with Katana. After one week of training that taught us the basics of Katana, we jumped into production.
+Making the white characters readable on white snow was challenging. Scene optimization was a must for a show with crowd of hairy characters.
+I worked on multiple sequences from lighting to compositing, 3D stereo included.</description>
+    </item>
+    
+  </channel>
+</rss>

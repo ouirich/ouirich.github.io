@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>animation on Ouirich Bounthavy</title>
+    <link>https://example.com/categories/animation/</link>
+    <description>Recent content in animation on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 02 Feb 2022 21:43:25 -0800</lastBuildDate><atom:link href="https://example.com/categories/animation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sonic Prime</title>
+      <link>https://example.com/filmography/sonicprime/</link>
+      <pubDate>Wed, 02 Feb 2022 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/sonicprime/</guid>
+      <description>Currently working on the new animated Sonic the Hedgehog serie for Netflix.</description>
+    </item>
+    
+    <item>
+      <title>Spidey and his Amazing Friends</title>
+      <link>https://example.com/filmography/spideyamagingfriends/</link>
+      <pubDate>Wed, 01 Sep 2021 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/spideyamagingfriends/</guid>
+      <description>I worked on 6 shorts and 10 episodes of the first season. Each episode was 11 minutes long and usually had between 4 or 5 keyshots. Most of the time I was in charge of 2 or 3 that had effects. My role was to setup keyshots in lighting and compositing beforehand. I would then work with my team on the rest of the episode.</description>
+    </item>
+    
+    <item>
+      <title>Lego Marvel Avengers: Climate Conundrum</title>
+      <link>https://example.com/filmography/lma/</link>
+      <pubDate>Sun, 01 Nov 2020 14:34:15 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/lma/</guid>
+      <description>My first project on episodic. The process is quite different than feature. You rely on being the most efficient possible, and setting things up globally. One unique light rig to rule them all. I worked on episode 1 and 3. My sequences were for the most part heavy in effects (snow storm and sand storm).</description>
+    </item>
+    
+    <item>
+      <title>The Willoughbys</title>
+      <link>https://example.com/filmography/willoughbys/</link>
+      <pubDate>Wed, 01 Apr 2020 19:20:36 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/willoughbys/</guid>
+      <description>Worked on multiple sequences setting up lighting mood and compositing template on master and keyshots.
+I led one the sequence in the candy factory, the biggest sequence of the film over 80 shots. I worked on most of the keyshots. I provided feedback to artists based on notes from the production designer and supervisor, and supported them until final approval.</description>
+    </item>
+    
+    <item>
+      <title>Spider-Man Into the Spider-Verse</title>
+      <link>https://example.com/filmography/spiderverse/</link>
+      <pubDate>Tue, 04 Dec 2018 22:50:30 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/spiderverse/</guid>
+      <description>A very special project. The amount of work done in compositing was tremendous, most of the look was done in Nuke and where we could be creative.
+I worked on multiple sequences on lighting and shared some shots for the compositing task.</description>
+    </item>
+    
+    <item>
+      <title>Smallfoot</title>
+      <link>https://example.com/filmography/smallfoot/</link>
+      <pubDate>Sun, 02 Sep 2018 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/smallfoot/</guid>
+      <description>First project with Katana. After one week of training that taught us the basics of Katana, we jumped into production.
+Making the white characters readable on white snow was challenging. Scene optimization was a must for a show with crowd of hairy characters.
+I worked on multiple sequences from lighting to compositing, 3D stereo included.</description>
+    </item>
+    
+    <item>
+      <title>The Lego Ninjago Movie</title>
+      <link>https://example.com/filmography/ninjago/</link>
+      <pubDate>Fri, 22 Sep 2017 20:00:11 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/ninjago/</guid>
+      <description>My first animated feature, I believe this is one of the experience where I learnt the most in my career. I worked on multiple sequences from lighting to compositing, 3D stereo included.</description>
+    </item>
+    
+    <item>
+      <title>Coldplay - Adventure of A Lifetime</title>
+      <link>https://example.com/filmography/coldplay/</link>
+      <pubDate>Sun, 29 Nov 2015 22:55:39 -0800</pubDate>
+      
+      <guid>https://example.com/filmography/coldplay/</guid>
+      <description>My very first big project. I started on the project by doing some lookdev work on different assets: vegetation and music instruments. I was in charge of lighting most of the shots in the jungle path sequence.
+Mathematic was still a small studio, making a 5 minutes in full CG in less than 4 months was challenging. The set dressing has been made in a way to make the jungle dense.</description>
+    </item>
+    
+  </channel>
+</rss>

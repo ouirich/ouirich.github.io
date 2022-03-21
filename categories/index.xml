@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Ouirich Bounthavy</title>
+    <link>https://example.com/categories/</link>
+    <description>Recent content in Categories on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Wed, 02 Feb 2022 21:43:25 -0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animation</title>
+      <link>https://example.com/categories/animation/</link>
+      <pubDate>Wed, 02 Feb 2022 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/categories/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>episodic</title>
+      <link>https://example.com/categories/episodic/</link>
+      <pubDate>Wed, 02 Feb 2022 21:43:25 -0800</pubDate>
+      
+      <guid>https://example.com/categories/episodic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildlife</title>
+      <link>https://example.com/categories/wildlife/</link>
+      <pubDate>Fri, 19 Nov 2021 17:31:23 -0700</pubDate>
+      
+      <guid>https://example.com/categories/wildlife/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscape</title>
+      <link>https://example.com/categories/landscape/</link>
+      <pubDate>Fri, 19 Mar 2021 19:24:49 -0700</pubDate>
+      
+      <guid>https://example.com/categories/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>feature</title>
+      <link>https://example.com/categories/feature/</link>
+      <pubDate>Wed, 01 Apr 2020 19:20:36 -0800</pubDate>
+      
+      <guid>https://example.com/categories/feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portrait</title>
+      <link>https://example.com/categories/portrait/</link>
+      <pubDate>Mon, 20 May 2019 15:30:50 -0700</pubDate>
+      
+      <guid>https://example.com/categories/portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vfx</title>
+      <link>https://example.com/categories/vfx/</link>
+      <pubDate>Fri, 09 Feb 2018 20:02:44 -0800</pubDate>
+      
+      <guid>https://example.com/categories/vfx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music video</title>
+      <link>https://example.com/categories/music-video/</link>
+      <pubDate>Sun, 29 Nov 2015 22:55:39 -0800</pubDate>
+      
+      <guid>https://example.com/categories/music-video/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>commercial</title>
+      <link>https://example.com/categories/commercial/</link>
+      <pubDate>Mon, 01 Dec 2014 22:55:51 -0800</pubDate>
+      
+      <guid>https://example.com/categories/commercial/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

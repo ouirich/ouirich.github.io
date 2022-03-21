@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>north america on Ouirich Bounthavy</title>
+    <link>https://example.com/tags/north-america/</link>
+    <description>Recent content in north america on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 19 Nov 2021 17:31:23 -0700</lastBuildDate><atom:link href="https://example.com/tags/north-america/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bald Eagles</title>
+      <link>https://example.com/photography/baldeagles/</link>
+      <pubDate>Fri, 19 Nov 2021 17:31:23 -0700</pubDate>
+      
+      <guid>https://example.com/photography/baldeagles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver 2021</title>
+      <link>https://example.com/photography/vancouver2021/</link>
+      <pubDate>Fri, 19 Mar 2021 19:24:49 -0700</pubDate>
+      
+      <guid>https://example.com/photography/vancouver2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nanaimo</title>
+      <link>https://example.com/photography/nanaimo/</link>
+      <pubDate>Sat, 19 Sep 2020 23:05:38 -0700</pubDate>
+      
+      <guid>https://example.com/photography/nanaimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Subtle Asian Vancouver</title>
+      <link>https://example.com/photography/sav/</link>
+      <pubDate>Mon, 20 May 2019 15:30:50 -0700</pubDate>
+      
+      <guid>https://example.com/photography/sav/</guid>
+      <description>Photowalk organized by the community Subtle Asian Vancouver</description>
+    </item>
+    
+    <item>
+      <title>Seattle</title>
+      <link>https://example.com/photography/seattle/</link>
+      <pubDate>Wed, 01 May 2019 15:51:21 -0700</pubDate>
+      
+      <guid>https://example.com/photography/seattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver 2018</title>
+      <link>https://example.com/photography/vancouver2018/</link>
+      <pubDate>Tue, 10 Apr 2018 23:29:36 -0700</pubDate>
+      
+      <guid>https://example.com/photography/vancouver2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

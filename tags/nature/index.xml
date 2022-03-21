@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nature on Ouirich Bounthavy</title>
+    <link>https://example.com/tags/nature/</link>
+    <description>Recent content in nature on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Sat, 19 Sep 2020 23:05:38 -0700</lastBuildDate><atom:link href="https://example.com/tags/nature/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nanaimo</title>
+      <link>https://example.com/photography/nanaimo/</link>
+      <pubDate>Sat, 19 Sep 2020 23:05:38 -0700</pubDate>
+      
+      <guid>https://example.com/photography/nanaimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ankgor Wat</title>
+      <link>https://example.com/photography/ankgorwat/</link>
+      <pubDate>Sun, 19 Jan 2020 23:01:04 -0700</pubDate>
+      
+      <guid>https://example.com/photography/ankgorwat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hualien</title>
+      <link>https://example.com/photography/hualien/</link>
+      <pubDate>Wed, 25 Dec 2019 15:51:21 -0700</pubDate>
+      
+      <guid>https://example.com/photography/hualien/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vancouver 2018</title>
+      <link>https://example.com/photography/vancouver2018/</link>
+      <pubDate>Tue, 10 Apr 2018 23:29:36 -0700</pubDate>
+      
+      <guid>https://example.com/photography/vancouver2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New Zealand</title>
+      <link>https://example.com/photography/newzealand/</link>
+      <pubDate>Sat, 20 Jan 2018 11:56:24 -0700</pubDate>
+      
+      <guid>https://example.com/photography/newzealand/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Franz Joseph</title>
+      <link>https://example.com/photography/franzjoseph/</link>
+      <pubDate>Sat, 20 Jan 2018 11:48:33 -0700</pubDate>
+      
+      <guid>https://example.com/photography/franzjoseph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bombo Headland Quarry</title>
+      <link>https://example.com/photography/bombo/</link>
+      <pubDate>Tue, 19 Sep 2017 22:16:06 -0700</pubDate>
+      
+      <guid>https://example.com/photography/bombo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

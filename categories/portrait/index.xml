@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portrait on Ouirich Bounthavy</title>
+    <link>https://example.com/categories/portrait/</link>
+    <description>Recent content in portrait on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 20 May 2019 15:30:50 -0700</lastBuildDate><atom:link href="https://example.com/categories/portrait/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Subtle Asian Vancouver</title>
+      <link>https://example.com/photography/sav/</link>
+      <pubDate>Mon, 20 May 2019 15:30:50 -0700</pubDate>
+      
+      <guid>https://example.com/photography/sav/</guid>
+      <description>Photowalk organized by the community Subtle Asian Vancouver</description>
+    </item>
+    
+  </channel>
+</rss>
