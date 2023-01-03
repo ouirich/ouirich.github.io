@@ -166,20 +166,20 @@ Preparing I had to plan episode to achieve deliverables."/>
 <p>Sonic Prime was the first show using Katana at Wildbrain. Most of the artists had no previous experience with this software. They had to be train and helped during production.<br>
 The lighting department had two teams, each one was composed of one lead, three seniors and eight artists. My role was to lead my team and achieve the creative lighting goals of the director for the episode.</p>
 <h2 id="preparing">Preparing</h2>
-<p>I had to plan episode to achieve deliverables. Following directors kick off and with the concept arts, I started by making prelight: a pass of lighting for the different environment of each of the episodes. We reused and updated them as the show went on.</p>
-<p>After selecting which shots were creative key shots, they were assigned to senior artists. They had to match it to the color scripts provided by the design department. We had around 10 key shots per episodes.
-Their next step was to propagate their work on the rest of the sequences. To do so, one contact sheet was created for each sequence. It gave me an overview on the episode. That rough first pass indicated if our lighting was setup properly. Mistakes or issues could be checked before the artists start. It also gave them an idea of what their shots should looked like.</p>
+<p>I had to plan episode to achieve deliverables. Following directors kick off and with the concept arts, I started by creating prelight: a pass of lighting for the different environment of each of the episodes. We reused and updated them as the show went on.</p>
+<p>After selecting which shots were creative key shots, they were assigned to senior artists. They had to match to the color scripts provided by the design department. We had around 10 key shots per episodes.
+Their next step was to propagate their work on the rest of the sequences. To do so, one contact sheet was created for each sequence. That rough first pass indicated if our lighting was setup properly. Mistakes or issues could be checked before the artists start. It also gave us an idea how their shots should looked like.</p>
 <h2 id="new-yoke-city">New Yoke City</h2>
 <p><img src="https://ouirich.github.io/image/filmography/SonicPrime/nyc.jpg" alt="">
-Alternate version of Green Hill Zone, the city is entirely industrialised and heavily polluted. Under a heavy red smog, the streets are illuminated by green street lights and neons signs.</p>
+Alternate version of Green Hill Zone, the city is entirely industrialised and heavily polluted. Under a heavy red smog, the streets are illuminated by green street lamps and neons signs.</p>
 <h3 id="lights-in-asset">Lights in asset</h3>
 <p>This environment was one of the very first set I was in charge of. Made of tall buildings and alleyways, placing every light manually on every window was out of question. <br>
 The set was made of multiple instances of buildings. We included our light rig inside the katana look file of each asset. When our buildings were instanced, the lights were already positionned. I did that for all the building and other props that generate lights: street lamps, neon signs, etc.</p>
 <p><img src="https://ouirich.github.io/image/filmography/SonicPrime/nyc_lia.jpg" alt=""></p>
 <p>Using template light material was useful in this case. It was also important to remove any type of contribution (transmission or volume) that was not meaningful. <br>
-The downside of this technique is that Arnold doesnt support light instancing. Every instances automatically brought multiple lights, and at the scale of the city, the numbers increase very quickly.</p>
+The downside of this technique is that Arnold doesnt support light instancing. Every instance automatically brought multiple lights, and at the scale of the city, the numbers increase very quickly.</p>
 <h3 id="filtering">Filtering</h3>
-<p>Because the lights were automatically imported, keeping a clear naming convention helps us pruning groups of light efficiently.</p>
+<p>Because the lights were always imported, keeping a clear naming convention helps us pruning groups of light efficiently.</p>
 <pre><code>asset_name
    └geometry
 	└group_geo0
@@ -189,8 +189,8 @@ The downside of this technique is that Arnold doesnt support light instancing. E
 	└neons
 	└windows
 </code></pre>
-<p>It was required to optimize our sequences. For example, in an aerial sequences with dogfight, we didn&rsquo;t need all the neons signs to contribute to the final image. But we had to keep the green street lamps for the look of the city.
-<img src="https://ouirich.github.io/image/filmography/SonicPrime/nyc_optimized.jpg" alt=""></p>
+<p>It was required to optimize our sequences. For example, in an aerial sequence with dogfight, we didn&rsquo;t need all the neons signs to contribute to the final image. But we had to keep the green street lamps for the look of the city.</p>
+<p><img src="https://ouirich.github.io/image/filmography/SonicPrime/nyc_optimized.jpg" alt=""></p>
 <h2 id="the-team">The team</h2>
 <table>
 <thead>
