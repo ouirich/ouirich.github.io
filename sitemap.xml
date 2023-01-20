@@ -2,14 +2,35 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ouirich.github.io/tags/animal-logic/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
     <loc>https://ouirich.github.io/categories/animation/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/tags/artist/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/categories/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/tags/compositing/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/categories/feature/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/filmography/leo/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/tags/lighting/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/tags/</loc>
+    <lastmod>2023-01-01T22:22:22-07:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/categories/episodic/</loc>
     <lastmod>2022-12-15T21:43:25-08:00</lastmod>
@@ -17,20 +38,26 @@
     <loc>https://ouirich.github.io/tags/lead/</loc>
     <lastmod>2022-12-15T21:43:25-08:00</lastmod>
   </url><url>
-    <loc>https://ouirich.github.io/tags/lighting/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
-  </url><url>
     <loc>https://ouirich.github.io/filmography/sonicprime/</loc>
-    <lastmod>2022-12-15T21:43:25-08:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/tags/</loc>
     <lastmod>2022-12-15T21:43:25-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/tags/wildbrain/</loc>
     <lastmod>2022-12-15T21:43:25-08:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/categories/landscape/</loc>
+    <lastmod>2022-10-09T15:10:02-08:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/tags/nature/</loc>
+    <lastmod>2022-10-09T15:10:02-08:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/tags/north-america/</loc>
+    <lastmod>2022-10-09T15:10:02-08:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/photography/</loc>
+    <lastmod>2022-10-09T15:10:02-08:00</lastmod>
+  </url><url>
+    <loc>https://ouirich.github.io/photography/tofino/</loc>
+    <lastmod>2022-10-09T15:10:02-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/about/</loc>
     <lastmod>2022-02-15T00:00:00+00:00</lastmod>
@@ -41,26 +68,14 @@
     <loc>https://ouirich.github.io/photography/baldeagles/</loc>
     <lastmod>2021-11-19T17:31:23-07:00</lastmod>
   </url><url>
-    <loc>https://ouirich.github.io/tags/north-america/</loc>
-    <lastmod>2021-11-19T17:31:23-07:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/photography/</loc>
-    <lastmod>2021-11-19T17:31:23-07:00</lastmod>
-  </url><url>
     <loc>https://ouirich.github.io/categories/wildlife/</loc>
     <lastmod>2021-11-19T17:31:23-07:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/tags/artist/</loc>
-    <lastmod>2021-09-01T21:43:25-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/tags/atomic-cartoons/</loc>
     <lastmod>2021-09-01T21:43:25-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/filmography/spideyamagingfriends/</loc>
     <lastmod>2021-09-01T21:43:25-08:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/categories/landscape/</loc>
-    <lastmod>2021-03-19T19:24:49-07:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/photography/vancouver2021/</loc>
     <lastmod>2021-03-19T19:24:49-07:00</lastmod>
@@ -71,13 +86,7 @@
     <loc>https://ouirich.github.io/photography/nanaimo/</loc>
     <lastmod>2020-09-19T23:05:38-07:00</lastmod>
   </url><url>
-    <loc>https://ouirich.github.io/tags/nature/</loc>
-    <lastmod>2020-09-19T23:05:38-07:00</lastmod>
-  </url><url>
     <loc>https://ouirich.github.io/tags/bron/</loc>
-    <lastmod>2020-04-01T19:20:36-08:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/categories/feature/</loc>
     <lastmod>2020-04-01T19:20:36-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/filmography/willoughbys/</loc>
@@ -124,9 +133,6 @@
   </url><url>
     <loc>https://ouirich.github.io/photography/vancouver2018/</loc>
     <lastmod>2018-04-10T23:29:36-07:00</lastmod>
-  </url><url>
-    <loc>https://ouirich.github.io/tags/animal-logic/</loc>
-    <lastmod>2018-02-09T20:02:44-08:00</lastmod>
   </url><url>
     <loc>https://ouirich.github.io/filmography/peterrabbit/</loc>
     <lastmod>2018-02-09T20:02:44-08:00</lastmod>

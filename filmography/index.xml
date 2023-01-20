@@ -9,6 +9,15 @@
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 13 Feb 2022 19:20:36 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/filmography/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Leo</title>
+      <link>https://ouirich.github.io/filmography/leo/</link>
+      <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/filmography/leo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sonic Prime</title>
       <link>https://ouirich.github.io/filmography/sonicprime/</link>
       <pubDate>Thu, 15 Dec 2022 21:43:25 -0800</pubDate>
@@ -95,16 +104,6 @@ The sequences taking place in the burrow were fully done in CG. Some compositing
       <guid>https://ouirich.github.io/filmography/assasinscreed/</guid>
       <description>I worked on the Abstergo&amp;rsquo;s escape sequence. Look-development and lighting on set extension.
   </description>
-    </item>
-    
-    <item>
-      <title>Star Trek Beyond</title>
-      <link>https://ouirich.github.io/filmography/startrekbeyond/</link>
-      <pubDate>Fri, 22 Jul 2016 20:02:44 -0800</pubDate>
-      
-      <guid>https://ouirich.github.io/filmography/startrekbeyond/</guid>
-      <description>Moving from small studios in Paris to one of the biggest studio in London was challenging. I learned what was expected from me on a feature film in a big studio. I also got used to adapt to new pipeline and tools quickly to be efficient.
-Lighting of the Enterprise, swarm ship, turbo lift and torpedo (Planet excluded)</description>
     </item>
     
   </channel>

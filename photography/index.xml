@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 19 Nov 2021 17:31:23 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Oct 2022 15:10:02 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tofino</title>
+      <link>https://ouirich.github.io/photography/tofino/</link>
+      <pubDate>Sun, 09 Oct 2022 15:10:02 -0800</pubDate>
+      
+      <guid>https://ouirich.github.io/photography/tofino/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Bald Eagles</title>
       <link>https://ouirich.github.io/photography/baldeagles/</link>
@@ -86,15 +95,6 @@
       <pubDate>Wed, 01 May 2019 15:51:21 -0700</pubDate>
       
       <guid>https://ouirich.github.io/photography/seattle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Vancouver 2018</title>
-      <link>https://ouirich.github.io/photography/vancouver2018/</link>
-      <pubDate>Tue, 10 Apr 2018 23:29:36 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/photography/vancouver2018/</guid>
       <description></description>
     </item>
     
