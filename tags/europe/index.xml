@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>europe on Ouirich Bounthavy</title>
+    <link>https://ouirich.github.io/tags/europe/</link>
+    <description>Recent content in europe on Ouirich Bounthavy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 15 Aug 2023 13:50:30 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/europe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berlin</title>
+      <link>https://ouirich.github.io/photography/berlin/</link>
+      <pubDate>Tue, 15 Aug 2023 13:50:30 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/photography/berlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prague</title>
+      <link>https://ouirich.github.io/photography/prague/</link>
+      <pubDate>Mon, 31 Jul 2023 13:50:19 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/photography/prague/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

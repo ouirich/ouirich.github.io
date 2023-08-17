@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 22:22:22 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Aug 2023 13:50:30 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>street</title>
+      <link>https://ouirich.github.io/categories/street/</link>
+      <pubDate>Tue, 15 Aug 2023 13:50:30 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/street/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>landscape</title>
+      <link>https://ouirich.github.io/categories/landscape/</link>
+      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/landscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wildlife</title>
+      <link>https://ouirich.github.io/categories/wildlife/</link>
+      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/wildlife/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>animation</title>
       <link>https://ouirich.github.io/categories/animation/</link>
@@ -32,24 +59,6 @@
       <pubDate>Thu, 15 Dec 2022 21:43:25 -0800</pubDate>
       
       <guid>https://ouirich.github.io/categories/episodic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>landscape</title>
-      <link>https://ouirich.github.io/categories/landscape/</link>
-      <pubDate>Sun, 09 Oct 2022 15:10:02 -0800</pubDate>
-      
-      <guid>https://ouirich.github.io/categories/landscape/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>wildlife</title>
-      <link>https://ouirich.github.io/categories/wildlife/</link>
-      <pubDate>Fri, 19 Nov 2021 17:31:23 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/categories/wildlife/</guid>
       <description></description>
     </item>
     
