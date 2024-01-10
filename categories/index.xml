@@ -7,20 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2023 13:50:30 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 23:18:22 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>street</title>
       <link>https://ouirich.github.io/categories/street/</link>
-      <pubDate>Tue, 15 Aug 2023 13:50:30 -0700</pubDate>
+      <pubDate>Sat, 28 Oct 2023 23:18:22 -0800</pubDate>
       
       <guid>https://ouirich.github.io/categories/street/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>portrait</title>
+      <link>https://ouirich.github.io/categories/portrait/</link>
+      <pubDate>Sun, 10 Sep 2023 22:20:36 -0800</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>landscape</title>
       <link>https://ouirich.github.io/categories/landscape/</link>
-      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
+      <pubDate>Fri, 23 Jun 2023 13:51:18 -0700</pubDate>
       
       <guid>https://ouirich.github.io/categories/landscape/</guid>
       <description></description>
@@ -59,15 +68,6 @@
       <pubDate>Thu, 15 Dec 2022 21:43:25 -0800</pubDate>
       
       <guid>https://ouirich.github.io/categories/episodic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>portrait</title>
-      <link>https://ouirich.github.io/categories/portrait/</link>
-      <pubDate>Mon, 20 May 2019 15:30:50 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/categories/portrait/</guid>
       <description></description>
     </item>
     

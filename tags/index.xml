@@ -7,13 +7,31 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 15 Aug 2023 13:50:30 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2023 23:18:22 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>canada</title>
+      <link>https://ouirich.github.io/tags/canada/</link>
+      <pubDate>Sat, 28 Oct 2023 23:18:22 -0800</pubDate>
+      
+      <guid>https://ouirich.github.io/tags/canada/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>cityscape</title>
       <link>https://ouirich.github.io/tags/cityscape/</link>
-      <pubDate>Tue, 15 Aug 2023 13:50:30 -0700</pubDate>
+      <pubDate>Sat, 28 Oct 2023 23:18:22 -0800</pubDate>
       
       <guid>https://ouirich.github.io/tags/cityscape/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>north america</title>
+      <link>https://ouirich.github.io/tags/north-america/</link>
+      <pubDate>Sat, 28 Oct 2023 23:18:22 -0800</pubDate>
+      
+      <guid>https://ouirich.github.io/tags/north-america/</guid>
       <description></description>
     </item>
     
@@ -29,7 +47,7 @@
     <item>
       <title>asia</title>
       <link>https://ouirich.github.io/tags/asia/</link>
-      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
+      <pubDate>Fri, 23 Jun 2023 13:51:18 -0700</pubDate>
       
       <guid>https://ouirich.github.io/tags/asia/</guid>
       <description></description>
@@ -38,18 +56,18 @@
     <item>
       <title>china</title>
       <link>https://ouirich.github.io/tags/china/</link>
-      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
+      <pubDate>Fri, 23 Jun 2023 13:51:18 -0700</pubDate>
       
       <guid>https://ouirich.github.io/tags/china/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>north america</title>
-      <link>https://ouirich.github.io/tags/north-america/</link>
-      <pubDate>Sat, 22 Apr 2023 14:21:29 -0700</pubDate>
+      <title>nature</title>
+      <link>https://ouirich.github.io/tags/nature/</link>
+      <pubDate>Thu, 22 Jun 2023 13:51:18 -0700</pubDate>
       
-      <guid>https://ouirich.github.io/tags/north-america/</guid>
+      <guid>https://ouirich.github.io/tags/nature/</guid>
       <description></description>
     </item>
     
@@ -77,24 +95,6 @@
       <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
       
       <guid>https://ouirich.github.io/tags/artist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>compositing</title>
-      <link>https://ouirich.github.io/tags/compositing/</link>
-      <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/tags/compositing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>lighting</title>
-      <link>https://ouirich.github.io/tags/lighting/</link>
-      <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/tags/lighting/</guid>
       <description></description>
     </item>
     
