@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 07 Jan 2024 23:43:47 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Paris</title>
-      <link>https://ouirich.github.io/photography/paris/</link>
-      <pubDate>Sun, 07 Jan 2024 23:43:47 -0800</pubDate>
-      
-      <guid>https://ouirich.github.io/photography/paris/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 28 Oct 2023 23:18:22 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Morning Autumn</title>
       <link>https://ouirich.github.io/photography/morningautumn/</link>
@@ -50,6 +41,15 @@
       <pubDate>Mon, 31 Jul 2023 13:50:19 -0700</pubDate>
       
       <guid>https://ouirich.github.io/photography/prague/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paris</title>
+      <link>https://ouirich.github.io/photography/paris2023/</link>
+      <pubDate>Sat, 01 Jul 2023 23:43:47 -0800</pubDate>
+      
+      <guid>https://ouirich.github.io/photography/paris2023/</guid>
       <description></description>
     </item>
     
