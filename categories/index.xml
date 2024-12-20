@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 28 Oct 2023 23:18:22 -0800</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Sep 2024 10:15:24 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>animation</title>
+      <link>https://ouirich.github.io/categories/animation/</link>
+      <pubDate>Thu, 19 Sep 2024 10:15:24 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/animation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>episodic</title>
+      <link>https://ouirich.github.io/categories/episodic/</link>
+      <pubDate>Thu, 19 Sep 2024 10:15:24 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/categories/episodic/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>street</title>
       <link>https://ouirich.github.io/categories/street/</link>
@@ -45,29 +63,11 @@
     </item>
     
     <item>
-      <title>animation</title>
-      <link>https://ouirich.github.io/categories/animation/</link>
-      <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
-      
-      <guid>https://ouirich.github.io/categories/animation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>feature</title>
       <link>https://ouirich.github.io/categories/feature/</link>
       <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
       
       <guid>https://ouirich.github.io/categories/feature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>episodic</title>
-      <link>https://ouirich.github.io/categories/episodic/</link>
-      <pubDate>Thu, 15 Dec 2022 21:43:25 -0800</pubDate>
-      
-      <guid>https://ouirich.github.io/categories/episodic/</guid>
       <description></description>
     </item>
     

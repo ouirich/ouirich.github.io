@@ -7,14 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 01 Jan 2023 22:22:22 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/lighting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Sep 2024 10:15:24 -0700</lastBuildDate><atom:link href="https://ouirich.github.io/tags/lighting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LEGO Pixar Bricktoons</title>
+      <link>https://ouirich.github.io/filmography/legopixarbricktoons/</link>
+      <pubDate>Thu, 19 Sep 2024 10:15:24 -0700</pubDate>
+      
+      <guid>https://ouirich.github.io/filmography/legopixarbricktoons/</guid>
+      <description>Those short films used characters from Pixar movies. The original movies were great for reference. I worked on light rigs, then moved to the key shots until final completion for different episodes. I split the shots assignment to my team.
+The Incredibles The scene taking place at the end of day, we went for the dusk. We wanted to have some sunlight to skim the trees and the roofs. The yellow lights from the the house and the backyard provided us a safe environment for the kids, in contrast to the darkness when Syndrome shows up.</description>
+    </item>
+    
     <item>
       <title>Leo</title>
       <link>https://ouirich.github.io/filmography/leo/</link>
       <pubDate>Sun, 01 Jan 2023 22:22:22 -0700</pubDate>
       
       <guid>https://ouirich.github.io/filmography/leo/</guid>
-      <description>Coming back to Animal Logic after five years as a senior lighting artist. The studio developped their own lighting software for their USD pipeline. But thanks to my previous expeience, it was fairly easy to pick it up. Mostly because the logic behind it was still the same.
+      <description>Coming back to Animal Logic after five years as a senior lighting artist. The studio developped their own lighting software for their USD pipeline. But thanks to my previous experience, it was fairly easy to pick it up. Mostly because the logic behind it, was still the same.
 We don&amp;rsquo;t always work on the most exciting shots on a production. As I started, another artist left. So I ended up picking up their shots to complete them.</description>
     </item>
     
@@ -24,9 +34,9 @@ We don&amp;rsquo;t always work on the most exciting shots on a production. As I 
       <pubDate>Thu, 15 Dec 2022 21:43:25 -0800</pubDate>
       
       <guid>https://ouirich.github.io/filmography/sonicprime/</guid>
-      <description>Introduction Sonic Prime was the first show using Katana at Wildbrain. Most of the artists had no previous experience with this software. They had to be train and helped during production.
+      <description>Sonic Prime was the first show using Katana at Wildbrain. Most of the artists had no previous experience with this software. They had to be train and helped during production.
 The lighting department had two teams, each one was composed of a lead, three seniors and eight artists. My role was to lead my team and achieve the creative lighting goals of the director for the episode.
-Preparing I had to plan episode to achieve deliverables.</description>
+Preparation I had to plan episode to achieve deliverables.</description>
     </item>
     
     <item>
@@ -39,7 +49,7 @@ Preparing I had to plan episode to achieve deliverables.</description>
     </item>
     
     <item>
-      <title>Lego Marvel Avengers: Climate Conundrum</title>
+      <title>LEGO Marvel Avengers: Climate Conundrum</title>
       <link>https://ouirich.github.io/filmography/lma/</link>
       <pubDate>Sun, 01 Nov 2020 14:34:15 -0800</pubDate>
       
@@ -89,22 +99,12 @@ The sequences taking place in the burrow were fully done in CG. Some compositing
     </item>
     
     <item>
-      <title>The Lego Ninjago Movie</title>
+      <title>The LEGO Ninjago Movie</title>
       <link>https://ouirich.github.io/filmography/ninjago/</link>
       <pubDate>Fri, 22 Sep 2017 20:00:11 -0800</pubDate>
       
       <guid>https://ouirich.github.io/filmography/ninjago/</guid>
       <description>My first animated feature, I believe this is one of the experience where I learnt the most in my career. I worked on multiple sequences from lighting to compositing, 3D stereo included.</description>
-    </item>
-    
-    <item>
-      <title>Assassin&#39;s Creed</title>
-      <link>https://ouirich.github.io/filmography/assasinscreed/</link>
-      <pubDate>Thu, 08 Dec 2016 20:02:44 -0800</pubDate>
-      
-      <guid>https://ouirich.github.io/filmography/assasinscreed/</guid>
-      <description>I worked on the Abstergo&amp;rsquo;s escape sequence. Look-development and lighting on set extension.
-  </description>
     </item>
     
   </channel>
